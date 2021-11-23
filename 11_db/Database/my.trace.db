@@ -1,0 +1,15 @@
+2021-10-28 00:37:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TEST" not found; SQL statement:
+INSERT INTO TEST VALUES(1, 'Hello');
+INSERT INTO TEST VALUES(2, 'World');
+ [42102-200]
+2021-10-28 00:39:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TEST" not found; SQL statement:
+INSERT INTO TEST VALUES(1, 'Hello');
+INSERT INTO TEST VALUES(2, 'World');
+ [42102-200]
+2021-10-28 00:45:48 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TEST" not found; SQL statement:
+INSERT INTO TEST VALUES(1, 'Hello');
+INSERT INTO TEST VALUES(2, 'World');
+ [42102-200]

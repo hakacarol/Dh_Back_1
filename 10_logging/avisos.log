@@ -1,0 +1,22 @@
+[2021-10-27 09:22:25] [ INFO ] [Main:11] Nosso logger está funcionando
+[2021-10-27 09:35:06] [ INFO ] [Main:12] Nosso Logger esta funcionando
+[2021-10-27 10:17:20] [ INFO ] [Main:19] Lista de numero é maior que 5
+[2021-10-27 10:17:20] [ INFO ] [Main:24] A media é igual a: null
+[2021-10-27 10:17:40] [ INFO ] [Main:19] Lista de numero é maior que 5
+[2021-10-27 10:17:40] [ INFO ] [Main:24] A media é igual a: null
+[2021-10-27 10:19:51] [ INFO ] [Main:19] Lista de numero é maior que 5
+[2021-10-27 10:19:51] [ INFO ] [Main:24] A media é igual a: 30.0
+[2021-10-27 10:20:02] [ INFO ] [Main:19] Lista de numero é maior que 5
+[2021-10-27 10:20:02] [ INFO ] [Main:24] A media é igual a: 31.0
+[2021-10-27 10:20:13] [ INFO ] [Main:19] Lista de numero é maior que 5
+[2021-10-27 10:20:13] [ INFO ] [Main:24] A media é igual a: 32.0
+[2021-10-27 10:23:23] [ INFO ] [Main:19] Lista de numero é maior que 5
+[2021-10-27 10:23:23] [ INFO ] [Main:24] A media é igual a: 32.0
+[2021-10-27 10:23:37] [ INFO ] [Main:19] Lista de numero é maior que 5
+[2021-10-27 10:23:37] [ INFO ] [Main:24] A media é igual a: 3.0
+[2021-10-27 10:28:57] [ INFO ] [Main:19] Lista de numero é maior que 5
+[2021-10-27 10:28:57] [ INFO ] [Main:28] A media é igual a: 3.0
+[2021-10-27 10:29:54] [ INFO ] [Main:19] Lista de numero é maior que 5
+[2021-10-27 10:29:54] [ INFO ] [Main:28] A media é igual a: 3.0
+[2021-10-27 10:30:17] [ INFO ] [Main:19] Lista de numero é maior que 5
+[2021-10-27 10:30:17] [ INFO ] [Main:28] A media é igual a: 2.8

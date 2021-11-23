@@ -1,0 +1,121 @@
+[2021-11-08 02:08:36] [ INFO ] [ServidorEndereco:31] Tabela Enderec foi criada
+[2021-11-08 02:08:37] [ INFO ] [ServidorEndereco:66] Endereco com id 1 foi incluido
+[2021-11-08 02:11:00] [ INFO ] [ServidorEndereco:31] Tabela Enderec foi criada
+[2021-11-08 02:11:00] [ INFO ] [ServidorEndereco:66] Endereco com id 1 foi incluido
+[2021-11-14 21:52:17] [ INFO ] [ServidorEndereco:31] Tabela Enderec foi criada
+[2021-11-14 21:52:17] [ INFO ] [ServidorEndereco:66] Endereco com id 1 foi incluido
+[2021-11-14 21:52:17] [ INFO ] [ServidorEndereco:66] Endereco com id 2 foi incluido
+[2021-11-14 21:53:07] [ INFO ] [ServidorEndereco:31] Tabela Enderec foi criada
+[2021-11-14 21:53:07] [ INFO ] [ServidorEndereco:66] Endereco com id 1 foi incluido
+[2021-11-14 21:53:07] [ INFO ] [ServidorEndereco:66] Endereco com id 2 foi incluido
+[2021-11-14 21:53:07] [ INFO ] [ServidorEndereco:66] Endereco com id 3 foi incluido
+[2021-11-14 22:43:15] [ INFO ] [ServidorEndereco:31] Tabela Enderec foi criada
+[2021-11-14 22:43:15] [ INFO ] [ServidorEndereco:66] Endereco com id 1 foi incluido
+[2021-11-14 22:43:15] [ INFO ] [ServidorEndereco:66] Endereco com id 2 foi incluido
+[2021-11-14 22:43:15] [ INFO ] [ServidorEndereco:66] Endereco com id 3 foi incluido
+[2021-11-14 22:44:54] [ INFO ] [ServidorEndereco:31] Tabela Enderec foi criada
+[2021-11-14 22:44:54] [ INFO ] [ServidorEndereco:66] Endereco com id 1 foi incluido
+[2021-11-14 22:44:54] [ INFO ] [ServidorEndereco:66] Endereco com id 2 foi incluido
+[2021-11-14 22:44:54] [ INFO ] [ServidorEndereco:66] Endereco com id 3 foi incluido
+[2021-11-14 22:44:54] [ INFO ] [ServidorEndereco:66] Endereco com id 4 foi incluido
+[2021-11-14 22:47:29] [ INFO ] [ServidorEndereco:31] Tabela Enderec foi criada
+[2021-11-14 22:47:29] [ INFO ] [ServidorEndereco:66] Endereco com id 1 foi incluido
+[2021-11-14 22:47:29] [ INFO ] [ServidorEndereco:66] Endereco com id 2 foi incluido
+[2021-11-14 22:47:29] [ INFO ] [ServidorEndereco:66] Endereco com id 3 foi incluido
+[2021-11-14 22:47:29] [ INFO ] [ServidorPaciente:31] Tabela Paciente foi criada
+[2021-11-14 22:47:29] [ INFO ] [ServidorPaciente:64] Paciente com id Maria foi incluido
+[2021-11-14 22:47:29] [ INFO ] [ServidorPaciente:64] Paciente com id Caetano foi incluido
+[2021-11-14 22:47:29] [ INFO ] [ServidorPaciente:64] Paciente com id Leandro foi incluido
+[2021-11-14 22:47:29] [ INFO ] [ServidorPaciente:142] 
+***** 
+1 
+Maria 
+Bethania 
+12345678 
+1 
+*****
+[2021-11-14 22:47:29] [ INFO ] [ServidorPaciente:142] 
+***** 
+2 
+Caetano 
+Veloso 
+12341234 
+2 
+*****
+[2021-11-14 22:47:29] [ INFO ] [ServidorPaciente:142] 
+***** 
+3 
+Leandro 
+Roque de Oliveira 
+12345678 
+3 
+*****
+[2021-11-14 22:47:29] [ INFO ] [ServidorEndereco:66] Endereco com id 4 foi incluido
+[2021-11-14 22:47:29] [ INFO ] [ServidorPaciente:64] Paciente com id Ash foi incluido
+[2021-11-14 22:47:29] [ INFO ] [ServidorPaciente:117] 
+***** 
+4 
+Ash 
+Ketchum 
+01023923 
+4 
+*****
+[2021-11-14 22:47:29] [ WARN ] [ServidorPaciente:98] Paciente com id 4 foi deletado
+[2021-11-16 22:52:01] [ INFO ] [ServidorEndereco:31] Tabela Enderec foi criada
+[2021-11-16 22:52:01] [ INFO ] [ServidorEndereco:66] Endereco com id 1 foi incluido
+[2021-11-16 22:52:01] [ INFO ] [ServidorEndereco:66] Endereco com id 2 foi incluido
+[2021-11-16 22:52:01] [ INFO ] [ServidorEndereco:66] Endereco com id 3 foi incluido
+[2021-11-16 22:52:01] [ INFO ] [ServidorPaciente:31] Tabela Paciente foi criada
+[2021-11-16 22:52:01] [ INFO ] [ServidorPaciente:64] Paciente com id Maria foi incluido
+[2021-11-16 22:52:01] [ INFO ] [ServidorPaciente:64] Paciente com id Caetano foi incluido
+[2021-11-16 22:52:01] [ INFO ] [ServidorPaciente:64] Paciente com id Leandro foi incluido
+[2021-11-16 22:52:01] [ INFO ] [ServidorPaciente:142] 
+***** 
+1 
+Maria 
+Bethania 
+12345678 
+1 
+*****
+[2021-11-16 22:52:01] [ INFO ] [ServidorPaciente:142] 
+***** 
+2 
+Caetano 
+Veloso 
+12341234 
+2 
+*****
+[2021-11-16 22:52:01] [ INFO ] [ServidorPaciente:142] 
+***** 
+3 
+Leandro 
+Roque de Oliveira 
+12345678 
+3 
+*****
+[2021-11-16 22:52:01] [ INFO ] [ServidorEndereco:66] Endereco com id 4 foi incluido
+[2021-11-16 22:52:01] [ INFO ] [ServidorPaciente:64] Paciente com id Ash foi incluido
+[2021-11-16 22:52:01] [ INFO ] [ServidorPaciente:117] 
+***** 
+4 
+Ash 
+Ketchum 
+01023923 
+4 
+*****
+[2021-11-16 22:52:01] [ WARN ] [ServidorPaciente:98] Paciente com id 4 foi deletado
+[2021-11-16 23:08:24] [ INFO ] [ServidorEndereco:31] Tabela Enderec foi criada
+[2021-11-16 23:08:25] [ INFO ] [ServidorEndereco:66] Endereco com id 1 foi incluido
+[2021-11-16 23:08:25] [ INFO ] [ServidorEndereco:66] Endereco com id 2 foi incluido
+[2021-11-16 23:08:25] [ INFO ] [ServidorEndereco:66] Endereco com id 3 foi incluido
+[2021-11-16 23:22:38] [ INFO ] [ServidorEndereco:31] Tabela Enderec foi criada
+[2021-11-16 23:22:38] [ INFO ] [ServidorEndereco:66] Endereco com id 1 foi incluido
+[2021-11-16 23:22:38] [ INFO ] [ServidorEndereco:66] Endereco com id 2 foi incluido
+[2021-11-16 23:22:38] [ INFO ] [ServidorEndereco:66] Endereco com id 3 foi incluido
+[2021-11-16 23:22:38] [ INFO ] [ServidorPaciente:31] Tabela Paciente foi criada
+[2021-11-16 23:22:38] [ INFO ] [ServidorPaciente:64] Paciente com id Maria foi incluido
+[2021-11-16 23:22:38] [ INFO ] [ServidorPaciente:64] Paciente com id Caetano foi incluido
+[2021-11-16 23:22:38] [ INFO ] [ServidorPaciente:64] Paciente com id Leandro foi incluido
+[2021-11-16 23:22:38] [ INFO ] [ServidorEndereco:66] Endereco com id 4 foi incluido
+[2021-11-16 23:22:38] [ INFO ] [ServidorPaciente:64] Paciente com id Ash foi incluido
+[2021-11-16 23:22:38] [ WARN ] [ServidorPaciente:98] Paciente com id 4 foi deletado

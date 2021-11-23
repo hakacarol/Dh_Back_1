@@ -1,0 +1,67 @@
+[2021-10-29 09:04:22] [ INFO ] [exercicio_aula.Main:11] teste
+[2021-10-29 09:06:26] [ INFO ] [exercicio_aula.Main:16] teste
+[2021-10-29 09:31:01] [ INFO ] [exercicio_aula.Main:60] teste
+[2021-10-29 09:31:22] [ INFO ] [exercicio_aula.Main:60] teste
+[2021-10-29 10:24:32] [ INFO ] [exercicio_aula.Main:49] O Usuario Felioe foi deletado
+[2021-10-29 10:24:32] [ INFO ] [exercicio_aula.Main:59] O usuario Felipe
+[2021-11-01 16:45:51] [ INFO ] [exercicio_aula.Main:49] O Usuario Felipe foi deletado
+[2021-11-01 16:45:51] [ INFO ] [exercicio_aula.Main:59] O usuario Felipe
+[2021-11-01 16:46:44] [ INFO ] [Main:51] O Usuario Felipe foi deletado
+[2021-11-01 16:46:44] [ INFO ] [Main:61] O usuario Felipe
+[2021-11-03 23:13:00] [ WARN ] [Main:53] Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.FUNCIONARIO(ID) [1, 'Marcolerio', 'Vidoti', 32, 'arquiteto']"; SQL statement:
+INSERT INTO Funcionario (Id, primeiroNome, sobrenome, idade, profissao) VALUES (1, 'Camila', 'Labella', 29, 'arquiteta') [23505-200]
+[2021-11-03 23:13:14] [ WARN ] [Main:53] Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.FUNCIONARIO(ID) [1, 'Marcolerio', 'Vidoti', 32, 'arquiteto']"; SQL statement:
+INSERT INTO Funcionario (Id, primeiroNome, sobrenome, idade, profissao) VALUES (1, 'Camila', 'Labella', 29, 'arquiteta') [23505-200]
+[2021-11-03 23:24:23] [ WARN ] [Main:57] Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.FUNCIONARIO(ID) [1, 'Marcolerio', 'Vidoti', 32, 'arquiteto']"; SQL statement:
+INSERT INTO Funcionario (Id, primeiroNome, sobrenome, idade, profissao) VALUES (1, 'Camila', 'Labella', 29, 'arquiteta') [23505-200]
+[2021-11-03 23:25:29] [ INFO ] [Main:71] Funcionario Marcolerio Vidoti
+[2021-11-03 23:25:29] [ INFO ] [Main:71] Funcionario Renan Silveira
+[2021-11-03 23:25:29] [ WARN ] [Main:58] Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.FUNCIONARIO(ID) [1, 'Marcolerio', 'Vidoti', 32, 'arquiteto']"; SQL statement:
+INSERT INTO Funcionario (Id, primeiroNome, sobrenome, idade, profissao) VALUES (1, 'Camila', 'Labella', 29, 'arquiteta') [23505-200]
+[2021-11-03 23:27:12] [ INFO ] [Main:76] Funcionario Marcolerio Vidoti
+[2021-11-03 23:27:12] [ INFO ] [Main:76] Funcionario Renan Silveira
+[2021-11-03 23:27:12] [ INFO ] [Main:76] Funcionario Marcolerio Vidoti
+[2021-11-03 23:27:12] [ INFO ] [Main:76] Funcionario Renan Silveira
+[2021-11-03 23:27:12] [ WARN ] [Main:61] Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.FUNCIONARIO(ID) [1, 'Marcolerio', 'Vidoti', 32, 'arquiteto']"; SQL statement:
+INSERT INTO Funcionario (Id, primeiroNome, sobrenome, idade, profissao) VALUES (1, 'Camila', 'Labella', 29, 'arquiteta') [23505-200]
+[2021-11-03 23:28:34] [ INFO ] [Main:76] Funcionario Marcolerio Vidoti
+[2021-11-03 23:28:34] [ INFO ] [Main:76] Funcionario Renan Silveira
+[2021-11-03 23:28:34] [ INFO ] [Main:76] Funcionario Marcolerio Vidoti
+[2021-11-03 23:28:34] [ WARN ] [Main:61] Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.FUNCIONARIO(ID) [1, 'Marcolerio', 'Vidoti', 32, 'arquiteto']"; SQL statement:
+INSERT INTO Funcionario (Id, primeiroNome, sobrenome, idade, profissao) VALUES (1, 'Camila', 'Labella', 29, 'arquiteta') [23505-200]
+[2021-11-03 23:52:38] [ INFO ] [Main:77] Marcolerio Vidoti
+[2021-11-03 23:52:38] [ INFO ] [Main:77] Renan Silveira
+[2021-11-03 23:52:38] [ INFO ] [Main:77] Marcolerio Vidoti
+[2021-11-03 23:52:38] [ WARN ] [Main:64] Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.FUNCIONARIO(ID) [1, 'Marcolerio', 'Vidoti', 32, 'arquiteto']"; SQL statement:
+INSERT INTO Funcionario (Id, primeiroNome, sobrenome, idade, profissao) VALUES (1, 'Camila', 'Labella', 29, 'arquiteta') [23505-200]
+[2021-11-03 23:53:30] [ INFO ] [Main:77] Marcolerio Vidoti
+[2021-11-03 23:53:30] [ INFO ] [Main:77] Renan Silveira
+[2021-11-03 23:53:30] [ INFO ] [Main:77] Marco Aurélio Vidoti
+[2021-11-03 23:53:30] [ WARN ] [Main:64] Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.FUNCIONARIO(ID) [1, STRINGDECODE('Marco Aur\u00e9lio'), 'Vidoti', 32, 'arquiteto']"; SQL statement:
+INSERT INTO Funcionario (Id, primeiroNome, sobrenome, idade, profissao) VALUES (1, 'Camila', 'Labella', 29, 'arquiteta') [23505-200]
+[2021-11-04 00:11:40] [ INFO ] [Main:80] Marcolerio Vidoti
+[2021-11-04 00:11:40] [ INFO ] [Main:80] Renan Silveira
+[2021-11-04 00:12:10] [ INFO ] [Main:80] Marcolerio Vidoti
+[2021-11-04 00:12:10] [ INFO ] [Main:80] Renan Silveira
+[2021-11-04 00:12:43] [ INFO ] [Main:80] Marcolerio Vidoti
+[2021-11-04 00:12:43] [ INFO ] [Main:80] Renan Silveira
+[2021-11-04 00:13:28] [ INFO ] [Main:80] Marcolerio Vidoti
+[2021-11-04 00:13:28] [ INFO ] [Main:80] Renan Silveira
+[2021-11-04 00:14:11] [ INFO ] [Main:80] Marcolerio Vidoti
+[2021-11-04 00:14:11] [ INFO ] [Main:80] Renan Silveira
+[2021-11-04 00:14:11] [ DEBUG] [Main:92] 1
+[2021-11-04 00:14:11] [ INFO ] [Main:80] Marco Aurélio Vidoti
+[2021-11-04 00:14:11] [ WARN ] [Main:67] Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.FUNCIONARIO(ID) [1, STRINGDECODE('Marco Aur\u00e9lio'), 'Vidoti', 32, 'arquiteto']"; SQL statement:
+INSERT INTO Funcionario (Id, primeiroNome, sobrenome, idade, profissao) VALUES (1, 'Camila', 'Labella', 29, 'arquiteta') [23505-200]
+[2021-11-04 00:15:21] [ INFO ] [Main:80] Marcolerio Vidoti
+[2021-11-04 00:15:21] [ INFO ] [Main:80] Renan Silveira
+[2021-11-04 00:15:21] [ DEBUG] [Main:92] 1
+[2021-11-04 00:15:21] [ INFO ] [Main:80] Marco Aurélio Vidoti
+[2021-11-04 00:15:21] [ WARN ] [Main:67] Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.FUNCIONARIO(ID) [1, STRINGDECODE('Marco Aur\u00e9lio'), 'Vidoti', 32, 'arquiteto']"; SQL statement:
+INSERT INTO Funcionario (Id, primeiroNome, sobrenome, idade, profissao) VALUES (1, 'Camila', 'Labella', 29, 'arquiteta') [23505-200]
+[2021-11-04 00:15:42] [ INFO ] [Main:80] Marcolerio Vidoti
+[2021-11-04 00:15:42] [ INFO ] [Main:80] Renan Silveira
+[2021-11-04 00:15:42] [ DEBUG] [Main:92] 1 Marco Aurélio Vidoti
+[2021-11-04 00:15:42] [ INFO ] [Main:80] Marco Aurélio Vidoti
+[2021-11-04 00:15:42] [ WARN ] [Main:67] Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.FUNCIONARIO(ID) [1, STRINGDECODE('Marco Aur\u00e9lio'), 'Vidoti', 32, 'arquiteto']"; SQL statement:
+INSERT INTO Funcionario (Id, primeiroNome, sobrenome, idade, profissao) VALUES (1, 'Camila', 'Labella', 29, 'arquiteta') [23505-200]

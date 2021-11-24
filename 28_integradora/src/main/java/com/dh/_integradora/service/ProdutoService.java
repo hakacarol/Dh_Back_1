@@ -26,9 +26,9 @@ public class ProdutoService {
     }
 
     public ProdutoEntity subtrair(Integer id, Integer quantidade) {
-        ProdutoEntity produtoEntity = produtoRepository.getById(id);
-        produtoEntity.setQuantidade(produtoEntity.getQuantidade()-quantidade);
-
-        return produtoRepository.getById(id);
+        ProdutoEntity produto = produtoRepository.findById(id).get();
+        produto.setQuantidade(produto.getQuantidade()-quantidade);
+        produtoRepository.save(produto);
+        return produtoRepository.findById(id).get();
     }
 }

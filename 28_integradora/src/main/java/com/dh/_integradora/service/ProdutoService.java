@@ -29,6 +29,6 @@ public class ProdutoService {
         ProdutoEntity produto = produtoRepository.findById(id).get();
         produto.setQuantidade(produto.getQuantidade()-quantidade);
         produtoRepository.save(produto);
-        return produtoRepository.findById(id).get();
+        return produto;
     }
 }

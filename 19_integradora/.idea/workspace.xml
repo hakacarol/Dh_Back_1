@@ -4,13 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37a31ce1-e73b-423e-83e5-b6b9303884cc" name="Changes" comment="" />
+    <list default="true" id="37a31ce1-e73b-423e-83e5-b6b9303884cc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../29_30_spring_data_hibernate/src/main/java/com/haka/_30_spring_data_hibernate/controller/EquipeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../29_30_spring_data_hibernate/src/main/java/com/haka/_30_spring_data_hibernate/controller/TreinadorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../29_30_spring_data_hibernate/src/main/java/com/haka/_30_spring_data_hibernate/model/Equipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../29_30_spring_data_hibernate/src/main/java/com/haka/_30_spring_data_hibernate/model/Jogador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../29_30_spring_data_hibernate/src/main/java/com/haka/_30_spring_data_hibernate/model/Treinador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../29_30_spring_data_hibernate/src/main/java/com/haka/_30_spring_data_hibernate/repository/EquipeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../29_30_spring_data_hibernate/src/main/java/com/haka/_30_spring_data_hibernate/repository/JogadorRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../29_30_spring_data_hibernate/src/main/java/com/haka/_30_spring_data_hibernate/repository/TreinadorRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../29_30_spring_data_hibernate/src/main/java/com/haka/_30_spring_data_hibernate/service/EquipeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../29_30_spring_data_hibernate/src/main/java/com/haka/_30_spring_data_hibernate/service/TreinadorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../24_consumir_apis_front" beforeDir="false" afterPath="$PROJECT_DIR$/../24_consumir_apis_front" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="2177iRCeWWZi4TVLRWdWsxD8x05" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />

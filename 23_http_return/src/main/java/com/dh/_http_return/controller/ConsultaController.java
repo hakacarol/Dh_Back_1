@@ -38,7 +38,7 @@ public class ConsultaController {
         return ResponseEntity.ok(consulta);
     }
 
-    PutMapping
+    @PutMapping
     public ResponseEntity<Consulta> putConsulta(@RequestBody ConsultaDAO dao) {
         return ResponseEntity.status(200).body(service.editarConsulta(dao));
     }

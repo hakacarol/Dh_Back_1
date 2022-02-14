@@ -35,7 +35,7 @@ public class PacienteService {
 
             Optional<PacienteEntity> pacienteEntity = pacienteRepository.findById(id);
             pacienteEntity.get().setEmail(email);
-=
+
             return insert(pacienteEntity.get());
         }
         return null;
